@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ![https:instagram.com/deni_kuswanto_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/denikuswanto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-
 ##### My Github Stats
 
 ![DENI KUSWANTO GitHub stats](https://github-readme-stats.vercel.app/api?username=deni-kuswanto&show_icons=true&theme=gruvbox)
