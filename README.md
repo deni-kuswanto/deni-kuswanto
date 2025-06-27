@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ##### Connect with Me
 
-![https:instagram.com/deni_kuswanto_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/denikuswanto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![[https:instagram.com/deni_kuswanto_]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![[https://www.linkedin.com/in/denikuswanto]](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ##### My Github Stats
 
